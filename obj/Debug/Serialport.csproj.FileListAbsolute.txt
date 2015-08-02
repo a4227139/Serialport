@@ -1,0 +1,15 @@
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\bin\Debug\Serialport.exe.config
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\bin\Debug\Serialport.exe
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\bin\Debug\Serialport.pdb
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\obj\Debug\Serialport.csprojResolveAssemblyReference.cache
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\obj\Debug\Serialport.Properties.Resources.resources
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\obj\Debug\Serialport.csproj.GenerateResource.Cache
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\obj\Debug\Serialport.exe
+c:\users\wwh\documents\visual studio 2013\Projects\Serialport\Serialport\obj\Debug\Serialport.pdb
+C:\Users\wwh\Documents\Visual Studio 2013\Projects\Serialport\Serialport\obj\Debug\Serialport.serial.resources
+H:\Serialport\Serialport\bin\Debug\Serialport.exe.config
+H:\Serialport\Serialport\obj\Debug\Serialport.exe
+H:\Serialport\Serialport\obj\Debug\Serialport.pdb
+O:\Serialport\Serialport\bin\Debug\Serialport.exe.config
+O:\Serialport\Serialport\obj\Debug\Serialport.exe
+O:\Serialport\Serialport\obj\Debug\Serialport.pdb
